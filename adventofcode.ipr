@@ -94,6 +94,7 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
+  <component name="ProjectTasksOptions" suppressed-tasks="Babel" />
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
   </component>
@@ -152,6 +153,9 @@
       <properties />
       <listeners />
     </configuration>
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
   <component name="masterDetails">
     <states>
